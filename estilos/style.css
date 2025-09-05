@@ -6,9 +6,9 @@ body{
     background-color: rgb(68, 215, 51);
 }
 main{
-    background-color: rgb(103, 233, 233);
+    background-color: rgb(255, 255, 255);
     width: 500px;
     margin: auto;
-    box-shadow: 3px 3px 5px rgba(255, 255, 0, 0.51);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.74);
     padding: 10px;
 }
