@@ -12,3 +12,17 @@ main{
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.74);
     padding: 10px;
 }
+h1 u{
+    color: rgb(117, 49, 206);
+    font-size: xx-large;
+}
+h2{
+    color: rgb(117, 49, 206);
+    font-size: x-large;
+}
+.lado{
+    float: right;
+}
+a{
+    color:  rgb(117, 49, 206);
+}
